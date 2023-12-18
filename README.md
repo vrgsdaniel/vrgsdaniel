@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrgsdaniel" alt="vrgsdaniel" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/vrgsdaniel](https://github.com/vrgsdaniel)
+- 💬 Ask me about **python, ML frameworks, k8s, software development, Data-intesive architectures**
+
+-   👨‍💻 All of my projects are available at ![daniel](https://img.shields.io/badge/<Daniel>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) [https://github.com/vrgsdaniel](https://github.com/vrgsdaniel)
 
 - 📝 I write articles on [https://medium.com/@dvar0](https://medium.com/@dvar0)
-
-- 💬 Ask me about **python, ML frameworks, Golang, k8s**
 
 - 📫 How to reach me **https://www.linkedin.com/in/dvargas0/**
 
