@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **python, ML frameworks, k8s, software development, Data-intesive architectures**
 
--   👨‍💻 All of my projects are available at ![daniel](https://img.shields.io/badge/<Daniel>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) [https://github.com/vrgsdaniel](https://github.com/vrgsdaniel)
+-   👨‍💻 All of my projects are available at https://github.com/vrgsdaniel
 
 - 📝 I write articles on [https://medium.com/@dvar0](https://medium.com/@dvar0)
 
