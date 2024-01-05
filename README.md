@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vrgsdaniel" alt="vrgsdaniel" /></a> </p>
 
-- 💬 Ask me about **python, ML frameworks, k8s, software development, Data-intesive architectures**
+- 💬 Ask me about **python, ML frameworks, k8s, software development, Data-intensive architectures**
 
 -   👨‍💻 All of my projects are available at https://github.com/vrgsdaniel
 
