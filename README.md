@@ -22,5 +22,3 @@
 
 
 
-[![vrgsdaniel's GitHub | Dependencies](https://stats.quine.sh/vrgsdaniel/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vrgsdaniel)
-
